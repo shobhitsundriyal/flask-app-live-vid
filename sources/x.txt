@@ -1,0 +1,5 @@
+{% extends "base.html" %}
+        {% block head %}
+        {% endblock  %}
+
+<a href="/get_im"><input type="button" value="Start"></a>
